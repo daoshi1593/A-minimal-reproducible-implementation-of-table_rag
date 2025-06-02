@@ -83,3 +83,7 @@ Apache License 2.0
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+## 语言
+
+[English](README_EN.md) | [中文](README.md)
