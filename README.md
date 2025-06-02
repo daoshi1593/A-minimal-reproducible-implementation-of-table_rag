@@ -1,5 +1,7 @@
 # Table RAG
 
+[English](README_EN.md) | 中文
+
 这是一个用于教育和演示目的的最小可复现实现。它提供了理解Table RAG核心概念的基本功能，但不是一个生产就绪的系统。
 
 ## 功能特点
@@ -83,7 +85,3 @@ Apache License 2.0
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
-
-## 语言
-
-[English](README_EN.md) | [中文](README.md)

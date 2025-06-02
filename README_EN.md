@@ -1,5 +1,7 @@
 # Table RAG
 
+English | [中文](README.md)
+
 A minimal reproducible implementation created for educational and demonstration purposes. It provides basic functionality to understand the core concepts of Table RAG but is not a production-ready system.
 
 ## Features
@@ -82,8 +84,4 @@ Apache License 2.0
 
 ## Contributing
 
-Issues and Pull Requests are welcome!
-
-## Language
-
-[English](README_EN.md) | [中文](README.md) 
+Issues and Pull Requests are welcome! 
