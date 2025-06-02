@@ -2,6 +2,10 @@
 
 English | [中文](README.md)
 
+**Copyright 2025 The Google Research Authors.**
+
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
+
 A minimal reproducible implementation created for educational and demonstration purposes. It provides basic functionality to understand the core concepts of Table RAG but is not a production-ready system.
 
 ## Features
@@ -80,8 +84,6 @@ table_rag/
 
 ## License
 
-Apache License 2.0
+This project is licensed under the [Apache License 2.0](LICENSE).
 
-## Contributing
-
-Issues and Pull Requests are welcome! 
+Copyright 2025 Google Research Authors. 
